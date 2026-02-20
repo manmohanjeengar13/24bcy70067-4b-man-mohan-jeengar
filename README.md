@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
+
 # 🃏 REST API for Playing Card Collection
 =======
  🃏 REST API for Playing Card Collection
->>>>>>> Stashed changes
+
 
 ## 🎯 Aim
 
@@ -280,8 +280,8 @@ Delete a card by its ID.
 3. For `POST` and `PUT` requests:
    - Go to **Body** → **raw** → **JSON**
    - Add the header: `Content-Type: application/json`
-<<<<<<< Updated upstream
+
 4. Click **Send**
 =======
 4. Click **Send**
->>>>>>> Stashed changes
+
